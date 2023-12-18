@@ -74,6 +74,7 @@ namespace CppCLRWinFormsProject {
 			this->ClientSize = System::Drawing::Size(642, 496);
 			this->Controls->Add(this->label1);
 			this->Name = L"Form1";
+			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"Form1";
 			this->ResumeLayout(false);
 			this->PerformLayout();
